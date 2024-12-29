@@ -11,8 +11,4 @@ This Python project predicts the number of bikes rented based on weather conditi
 ## Dataset
 The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/00560/SeoulBikeData.csv). It includes information on temperature, humidity, wind speed, visibility, and rented bike count.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/bike-rental-prediction.git
-   cd bike-rental-prediction
+
